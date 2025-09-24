@@ -1,2 +1,3 @@
 file2.txt
 linea 2 file2
+linea 3 file2
